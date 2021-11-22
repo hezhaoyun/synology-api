@@ -1,4 +1,5 @@
 /build/
+/venv/
 /dist/
 /synology_api.egg-info/
 /synology_api/__pycache__/
